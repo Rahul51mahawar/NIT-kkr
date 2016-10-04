@@ -1,0 +1,302 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+#main
+{
+	width:1000px;
+	min-height:670px;
+	margin:0px auto;
+	background-color:#008585;
+} 
+#banner
+{
+	width:1000px;
+	float:left;	
+    height:130px;
+    background-color:#008585;
+}
+#logo
+{
+	width:130px;
+	height:130px;
+	float:left;
+}
+#banner img
+{
+	margin:15px;
+	width:100px;
+	height:100px;	
+}
+#name
+{
+	width:400;
+	height:130px;
+	float:left;	
+}	
+#banner p
+{
+	color:#fff;
+	font-family:"Arial", Gadget, sans-serif;
+	font-size:25px;
+	margin-top:25px;
+	font-weight:bold;
+}
+
+#icon
+{
+	margin-left:5px;
+	margin-top:10px;
+	margin-right:5px;
+	float:right;
+	width:25px;
+	height:25px;
+	background-color:#008585;
+	border-radius:5px;
+	border-width:1px;
+	border-color:#005353;
+	border-style:solid;
+}
+#icon p
+{
+	margin-top:0px;
+	font-weight:bold; 
+	font-size:20px;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#eee;
+	text-align:center;
+}
+#icon:hover
+{
+	background-color:#eee;
+	border-width:1px;
+	border-color:#005353;
+}
+#icon:hover p
+{
+	color:#005353;
+}
+#menu
+{
+	width:1000px;
+	float:left;
+	height:40px;
+	background-color:#005353;
+}
+#nev
+{
+	margin-left:4px;
+	margin-top:2px;
+	float:left;
+	width:100px;
+	height:38px;
+	padding-top:10px;
+	cursor:pointer;
+}
+#nev:hover
+{
+	margin-left:4px;
+	background-color:#008585;
+}
+#menu a
+{
+	color:#fff;
+	text-decoration:none;
+	font-family:arial;
+	font-size:12px;
+}
+#log
+{
+	color:#fff;
+	text-decoration:none;
+	font-family:arial;
+	font-size:15px;
+	margin-top:8px;
+	margin-right:110px;
+	float:right;
+}
+#middle
+{
+	width:1000px;
+	float:left;
+	min-height:400px;
+	background-color:#005353;
+}
+#content
+{
+	margin-left:4px;
+	width:693px;
+	min-height:400px;
+	float:left;
+	background-color:#008585;
+}
+#sidebar
+{
+	width:300px;
+	float:right;
+	min-height:400px;
+}
+#login
+{
+	width:300px;
+	height:200px;
+	float:top;
+	background-color:#008585;
+}
+#inlog:hover
+{
+	background-color:#008585;
+}
+#inlog p
+{
+	color:#fff;
+	text-decoration:none;
+	font-family:arial;
+	font-size:12px;
+	margin-top:8px;
+}
+		
+#inlog
+{
+	height:30px;
+	width:150px;
+	background-color:#005353;
+	float:left;
+	cursor:pointer;
+	margin-top:0px;
+}
+#login #T
+{
+	width:200px;
+	border:none;
+	background-color:#005353;
+	color:white;
+	font-family:Arial;
+	font-size:12px;
+	margin-top:15px;
+	margin-left:30px;
+	height:15px;
+	padding:8px;
+}
+#login #B
+{
+	width:100px;
+	height:25px;
+	color:#eee;
+	border:none;
+	background-color:#005353;
+	margin-left:30px;
+	margin-top:15px;
+	cursor:pointer;
+}
+#login #B:hover
+{
+	background-color:#00CACA;
+	color:#222;
+}
+#form1 p
+{
+	color:#002D2D;
+	cursor:pointer;
+	text-decoration:none;
+	font-family:arial;
+	font-size:12px;
+	margin-top:8px;
+	margin-left:30px;
+}
+#form1 p:hover
+{
+	color:#00CECE;
+}
+	
+	
+#news
+{
+	width:300px;
+	min-height:200px;
+	float:bottom;
+	background-color:#008585;
+}
+#news #notify
+{
+	padding-top:5px;
+	height:25px;
+	font-size:14px;
+	font-family:Arial, Helvetica, sans-serif;
+	width:300px;
+	background-color:#005353;
+	float:left;
+	cursor:pointer;
+	color:#ddd;
+}
+#news #list
+{
+	width:300px;
+	padding-top:40px;
+	padding-right:40px;
+	padding-left:40px;
+	padding-bottom:0px;
+	color:#ddd;
+}
+#list li
+{
+	margin-top:12px;
+	margin-bottom:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:15px;
+	
+}
+#border
+{
+	margin-top:3px;
+	width:1000px;
+	float:left;
+	min-height:100px;
+	background-color:#005353;
+}
+#border p
+{
+	margin-top:25px;
+	margin-left:30px;
+	text-decoration:none;
+	color:#eee;
+	font-size:12px;
+	font-family:arial;
+	cursor:pointer;
+}
+#border a
+{
+	margin-left:10px;
+	margin-right:10px;
+	text-decoration:none;
+	color:#eee;
+	font-size:12px;
+	font-family:arial;
+	cursor:pointer;
+}
+#border a:hover
+{
+	text-decoration:underline;
+} 
+
+
+#head
+{
+	color:#006c6c;
+	font-size:20px;
+	font-family:arial;
+	margin-bottom:10px;
+}
+#institute
+{
+	width:652px;
+	background-color:#eee;
+	padding:20px;
+}
+#body
+{
+	color:#333;
+	font-size:15px;
+	font-family: arial;
+}
